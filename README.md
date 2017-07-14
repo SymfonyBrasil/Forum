@@ -10,7 +10,7 @@
   - Seja educado e gentil, para aumentar suas chances de conseguir uma resposta satisfatória.
   - Evite perguntas de cunho especulatório.
 
-## Grupo a qual você pode tira durv
+## Grupo a qual você pode tirar dúvidas
 
 * https://t.me/SymfonyBrasil
 
