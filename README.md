@@ -1,6 +1,6 @@
 # Fórum para movimentação de discussões da comunidade Symfony Brasil.
 
-<img  class="center" src="https://avatars7.githubusercontent.com/u/2319578?v=4&s=200">
+<img  class="center" src="https://avatars3.githubusercontent.com/u/30373590?v=4&s=200">
 
 ## Como utilizar esse fórum
 
